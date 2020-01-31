@@ -22,4 +22,4 @@ The description of files
 
 Authorship statement
 -------------------------
-Files 1, 2, 3 have been produced by Thomas Wellens. Files 4, 5, 6, 7 have been produced by Valentin Gebahrt. 
+Files 1, 2, 3 have been produced by Thomas Wellens. Files 4, 5, 6, 7 have been produced by Valentin Gebhart. 
